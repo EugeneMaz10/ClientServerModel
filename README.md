@@ -1,0 +1,2 @@
+# ClientServerModel
+A PHP Project that demonstrates A client Server Model and enables one to run a Website from a local machine instead of Deploying them to remote servers.Advantage of running a website from a local machine rather than a remote server is the ease of access and control of ones own website.There is also no additional costs or monthly plans to running a website from a local machine.You only take care of your own electricity costs
